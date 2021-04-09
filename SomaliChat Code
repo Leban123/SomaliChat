@@ -2,10 +2,13 @@
 <html lang="en-gb">
 <head>
     <meta charset="UTF-8">
-    <title>SC</title>
+    <title>SomaliChat</title>
 </head>
 <body>
-
-</body>
+<style>
+body    {
+        background-color:lightgrey;
+    }
+</style></body>
 
 </html>
